@@ -17,6 +17,7 @@
     "noImplicitReturns": true,
     "skipLibCheck": true
   },
-  "include": ["packages/bulmil/src/**/*.ts", "packages/bulmil/src/**/*.tsx"],
+  "include": ["src/**/*.ts", "src/**/*.tsx"],
+  // "include": ["src/**/*"],
   "exclude": ["node_modules"]
 }
